@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NOMANSAEEDSOOMRO
-- 👀 I’m interested in Data Science / Analytics and Automation using Python
+- 👀 I’m interested in Artificial Intelligence / Data Science / Analytics and Automation using Python
 - 🌱 I’m currently learning Automation and Cloud Infrastructure for deployment
 - 💞️ I’m looking to collaborate on Analytics Automation
 - 📫 How to reach me https://www.linkedin.com/in/nssoomro/
